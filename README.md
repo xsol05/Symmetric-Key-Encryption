@@ -1,4 +1,4 @@
-# Encryption
+# Symmetric Key Encryption
 _Programs for two symmetric key encryption methods_
 
 ### Caesar Cipher
